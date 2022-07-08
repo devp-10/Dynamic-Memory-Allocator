@@ -1,1 +1,2 @@
-# Dynamic-Memory-Allocator
+# malloclab
+Carefully read malloclab.pdf in its entirety.
